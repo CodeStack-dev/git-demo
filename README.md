@@ -1,6 +1,34 @@
 ## The Markdown language
+```mermaid
+sequenceDiagram
+
+Note right of Jodfsdhn:Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 
+```
+
+---
+title: Node with text
+---
+```mermaid
+flowchart 
+style id1 fill:#f9f,stroke:#333,stroke-width:4px
+    id1[This is the text in the box]
+
+```
+```mermaid
+flowchart LR
+    id1(Start)-->id2(Stop)
+    style id1 fill:#f9f,stroke:#333,stroke-width:4px
+    style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+
+```
+```html
+.red{color:red;}
+<p class="red">dsfsdfsd</p>
+
+
+```
 Markdown: Syntax
 ================
 
