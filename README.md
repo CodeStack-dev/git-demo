@@ -1,6 +1,25 @@
 ## The Markdown language
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+<mark>Marked text</mark>
 
-Markdown is a lightweight markup language that you can use to add **formatting** elements to plain text documents. Created by [John Gruber](https://daringfireball.net/projects/markdown/) in ~2003~2004, Markdown is now one of the world’s most popular markup languages.
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+DONATE
+</div>
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+<a href="/blog">VIEW THE BLOG</a>
+</div>
+
+
+==highlight== 
+
+<code> <i>This text will be italic</i> <b style="color:red;">this text will be bold</b> <font color="#009900" face="Verdana" size="6">font</font></code>
+```html
+<span style="color:red">The Markdown language</span>
+```
+Markdown is a lightweight markup language --------that you can===== use to add **formatting** elements to plain text documents. Created by [John Gruber](https://daringfireball.net/projects/markdown/) in ~2003~2004, Markdown is now one of the world’s most popular markup languages.
 hotelImg2.png
 ![Screenshot](hotelImg2.png)
 ---
@@ -76,7 +95,7 @@ Markdown can be used to create various block-level features, such as:
 * To-do lists
 ```diff
 - hello
-+ text in green
++ text in yellow
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
