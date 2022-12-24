@@ -21,6 +21,8 @@ o { color: Orange }
 g { color: Green }
 </style>
 **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+
+
 # TODOs:
 
 - <r>TODO:</r> Important thing to do
@@ -31,6 +33,17 @@ $${\color{red}Red}$$
 ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 sdedsaf
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
+🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
+
+🟥🟧🟨🟩🟦🟪🟫⬛⬜🔲🔳⏹☑✅❎
+
+❤️🧡💛💚💜💙🤎🖤🤍♥️💔💖💘💝💗💓💟💕❣️♡
+
+🔺🔻🔷🔶🔹🔸♦💠💎💧🧊
+
+🏴🏳🚩🏁
+
+◻️◼️◾️◽️▪️▫️
 Markdown can be used to create various block-level features, such as:
 
 * Block quotes
