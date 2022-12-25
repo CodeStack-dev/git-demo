@@ -1,4 +1,24 @@
 ## The Markdown language
+
+<font color=#0fb503>other color</font>
+
+🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
+
+`red color`
+This is a paragraph that for some reason we want blue.
+{: .blue}
+{: .blue}
+
+ U+1F534
+```json
+dsf,ldfl
+```
+```html
+dsf,ldfl
+```
+```javascript
+dsf,ldfl
+```
 ```mermaid
 sequenceDiagram
 
@@ -11,8 +31,13 @@ Note right of Jodfsdhn:Bob thinks a long<br/>long time, so long<br/>that the tex
 title: Node with text
 ---
 ```mermaid
+sequenceDiagram
+    participant John
+```
+
+```mermaid
 flowchart 
-style id1 fill:#f9f,stroke:#333,stroke-width:4px
+style id1 fill:#f9f
     id1[This is the text in the box]
 
 ```
@@ -21,6 +46,12 @@ flowchart LR
     id1(Start)-->id2(Stop)
     style id1 fill:#f9f,stroke:#333,stroke-width:4px
     style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+
+```
+
+```mermaid
+flowchart LR
+    A-- This is the text! ---B
 
 ```
 ```html
