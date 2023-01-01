@@ -1011,6 +1011,8 @@ Markdown is a lightweight markup language --------that you can===== use to add *
 hotelImg2.png
 ![Screenshot](hotelImg2.png)
 ---
+
+
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
 
