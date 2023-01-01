@@ -1011,11 +1011,23 @@ Markdown is a lightweight markup language --------that you can===== use to add *
 hotelImg2.png
 ![Screenshot](hotelImg2.png)
 ---
-
-
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
+$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
 
+$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
+
+$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
+
+$\mathscr{\color{red}{mon}\color{white}{day}}$
+
+$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
+
+$\textit{hello}$  #italic
+
+$\text{hello}$    #normal
+
+$\Large{hello}$$   #Bigger text size
 
  ![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
 ## Editing with Markdown output
@@ -1043,10 +1055,14 @@ g { color: Green }
 - <o>TODO:</o> Less important thing to do
 - <g>DONE:</g> Breath deeply and improve karma
 ## Formatting blocks with Markdown
+${this is {\color{red}Red}}$
+## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 
+sdedsaf
 
+# ${This\ is\ a\ {\color{red}Big}}\ Title$
 
-
+${this is is a {\color{red} big}}$
 
 🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
 
