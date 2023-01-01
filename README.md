@@ -1055,14 +1055,14 @@ g { color: Green }
 - <o>TODO:</o> Less important thing to do
 - <g>DONE:</g> Breath deeply and improve karma
 ## Formatting blocks with Markdown
-${this is {\color{red}Red}}$
+
 ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 
-sdedsaf
+
 
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
 
-${this is is a {\color{red} big}}$
+
 
 🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
 
